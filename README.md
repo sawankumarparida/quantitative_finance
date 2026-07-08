@@ -1,0 +1,1 @@
+A vectorized quantitative trading backtester built in Python. This project fetches historical market data, calculates momentum indicators, generates execution signals, and evaluates the cumulative performance of a Dual Simple Moving Average (SMA) crossover strategy against a standard Buy & Hold benchmark.
